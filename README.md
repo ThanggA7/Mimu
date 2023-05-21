@@ -1,17 +1,17 @@
 # Mô tả dự án
 
 Dùng chỉ để Auto các lệnh sau
-.cauca
-.muaveso
-.scam
+- .cauca
+- .muaveso
+- .scam
 
 # Các thư viện cần cài đạt
 
 - Python 3.6 or higher
 - discord.py library
 # Configuration
-ID_CHANNEL: ID kênh bạn cần spam.
-ID_SCAM: ID người mà bạn muốn scam.
+- ID_CHANNEL: ID kênh bạn cần spam.
+- ID_SCAM: ID người mà bạn muốn scam.
 
 ## Cách cài đạt
 
