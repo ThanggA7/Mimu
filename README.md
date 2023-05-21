@@ -11,7 +11,7 @@ Dùng chỉ để Auto các lệnh sau
 - discord.py library
 # Configuration
 - ID_CHANNEL: ID kênh bạn cần spam.
-- ID_SCAM: ID người mà bạn muốn scam.
+- LIST_SCAM: Gán những ID mà bạn muốn scam vào ( Dùng bot đi vì cái này có ping )
 
 ## Cách cài đạt
 
