@@ -44,7 +44,7 @@ Dùng chỉ để Auto các lệnh sau
   "count4": 0,
   "count5": 0
 }
-
+```
 ## Cách cài đạt
 
 1. Link Repository 
