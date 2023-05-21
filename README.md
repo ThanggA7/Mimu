@@ -14,6 +14,7 @@ Dùng chỉ để Auto các lệnh sau
 - Python 3.6 or higher
 - discord.py library
 # Config.json
+```
 {
   "ID_CHANNEL": 1096659409918230609, Đây là ID kênh bạn muốn spam
   "LIST_SCAM": [                     List này là list để ID người bạn muốn Scam =))) List này của mình toàn bot thôi
