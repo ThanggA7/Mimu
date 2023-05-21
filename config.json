@@ -1,0 +1,29 @@
+{
+  "ID_CHANNEL": ID KÊNH,  
+  "LIST_SCAM": [
+    UID1,
+    UID2,
+    UID3,
+    UID4,
+    UID5,
+    UID6,
+    UID7,
+    UID8,
+    UID9,
+    UID10
+  ],
+  "LIST_RANDOM_GAME": [
+    ".keo",
+    ".bua",
+    ".bao"
+  ],
+  "LIST_TX": [
+    ".tai Tiền cược",
+    ".xiu Tiền cược"
+  ],
+  "count1": 0,
+  "count2": 0,
+  "count3": 0,
+  "count4": 0,
+  "count5": 0
+}
