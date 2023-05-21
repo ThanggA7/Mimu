@@ -13,7 +13,7 @@ Dùng chỉ để Auto các lệnh sau
 
 - Python 3.6 or higher
 - discord.py library
-# Configuration
+# Config.json
 - ID_CHANNEL: ID kênh bạn cần spam.
 - LIST_SCAM: Gán những ID mà bạn muốn scam vào ( Dùng id của bot đi vì cái này có ping)
 -  LIST_RANDOM_GAME = [".keo", ".bua", ".bao"]
