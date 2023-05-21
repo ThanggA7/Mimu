@@ -13,6 +13,7 @@ Dùng chỉ để Auto các lệnh sau
 
 - Python 3.6 or higher
 - discord.py library
+- asyncio library
 # Config.json
 ```
 {
