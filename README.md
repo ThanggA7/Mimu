@@ -4,15 +4,20 @@ Dùng chỉ để Auto các lệnh sau
 - .cauca
 - .muaveso
 - .scam
-
+- .keo
+- .bua
+- .bao
+- .tai
+- .xiu
 # Các thư viện cần cài đạt
 
 - Python 3.6 or higher
 - discord.py library
 # Configuration
 - ID_CHANNEL: ID kênh bạn cần spam.
-- LIST_SCAM: Gán những ID mà bạn muốn scam vào ( Dùng id của bot đi vì cái này có ping )
-
+- LIST_SCAM: Gán những ID mà bạn muốn scam vào ( Dùng id của bot đi vì cái này có ping)
+-  LIST_RANDOM_GAME = [".keo", ".bua", ".bao"]
+-  LIST_TX = [".tai {Tien Tai}", ".xiu {Tien Xiu}"]
 ## Cách cài đạt
 
 1. Link Repository 
