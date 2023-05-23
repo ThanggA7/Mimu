@@ -10,7 +10,7 @@ Dùng chỉ để Auto các lệnh sau
 - .tai
 - .xiu
 # Các thư viện cần cài đạt
-
+pip install discord.py-self
 - Python 3.6 or higher
 - discord.py library
 - asyncio library
